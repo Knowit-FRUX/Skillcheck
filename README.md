@@ -18,10 +18,12 @@ A high end assignment to evaluate web development skills of an FRUX prospect.
       <li>Vanilla</li>
     </ul>
   </li>
-  <li>Tricks
+  <li>Traps
     <ul>
-      <li></li>
-      <li></li>
+      <li>Markup</li>
+      <li>CSS</li>
+      <li>Script</li>
+      <li>Meta?</li>
     </ul>
   </li>
 </ul>
